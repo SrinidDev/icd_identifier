@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+simple_icd_10_cm
+tqdm
+transformers
+groq
+langchain
+langchain-groq
+langchain-community
+torch
+tensorflow
+flax 
+jax 
+jaxlib
